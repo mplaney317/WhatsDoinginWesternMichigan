@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "mplaney317",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243150412?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "mplaney317",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-12-05T16:42:53.132Z",
-    "updated_at": "2025-12-05T16:42:53.132Z"
-  }
+    "updated_at": "2025-12-05T16:42:53.132Z",
+    "generate_pages_site": false
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "2545060b-aa67-416a-9952-5bd71e2bd85e": {
+      "content": [],
+      "created_at": "2025-12-05T16:42:53.135Z",
+      "created_by": "mplaney317",
+      "title": "Test - What's Doing In Western Michigan",
+      "updated_at": "2025-12-05T16:42:53.135Z",
+      "updated_by": "mplaney317",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "2545060b-aa67-416a-9952-5bd71e2bd85e"
+  ]
 }
