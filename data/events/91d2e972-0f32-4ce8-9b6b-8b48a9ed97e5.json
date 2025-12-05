@@ -1,0 +1,46 @@
+{
+  "audiovisual_files": {
+    "d4be5bd6-06c3-4978-8610-311af1c7ef1c": {
+      "label": "What's Doing in Western Michigan 1-11-1949",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://n2t.net/ark:/85335/m51j9bh01",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this installment of \"What's doing in Western Michigan,\" Dr. Willis Dunbar reads stories from newspapers from towns surrounding Kalamazoo published over the past week. Dunbar reads about the fire that consumed a three-story Masonic temple in Sturgis, MI, which is described as the largest fire in the area since 1917, as well reading the stories of fires in Big Rapids and Three Rivers. Dunbar also discusses a story concerning the Coldwater bond election, which was declared invalid because of improper notice, and a story about the Second Midwest Conference on Community Relations which honored the editor and publisher of the Coldwater Daily Reporter, Al Earl Davidson. Also included is the segment, \"The sum of the stories in the news,\" where Ed Laslow reads short advertisements from the newspapers, and the segment \"Here and there in the news,\" where Dr. Dunbar reads short news stories."
+        },
+        {
+          "type": "link",
+          "url": "https://d.lib.msu.edu/vvl/2089?q=What%27s%20doing%20in%20Western%20Michigan#sh-block-collapse-vvl2089",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "What's Doing in Western Michigan 1-11-1949",
+  "av_file_order": [
+    "d4be5bd6-06c3-4978-8610-311af1c7ef1c"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/",
+  "created_at": "2025-12-05T18:59:47.802Z",
+  "created_by": "mplaney317",
+  "updated_at": "2025-12-05T18:59:47.802Z",
+  "updated_by": "mplaney317"
+}
