@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": false,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "mplaney317",
+    "is_private": false,
+    "title": "Test - What's Doing In Western Michigan",
+    "description": "A test event for the radio program What's Doing in Western Michigan",
+    "language": "en",
+    "slug": "WhatsDoinginWesternMichigan",
+    "creator": "mplaney317",
+    "authors": "Mike Laney James Voges Kasey Wilson",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-12-05T16:42:53.132Z",
+    "updated_at": "2025-12-05T16:42:53.132Z"
   }
 }
